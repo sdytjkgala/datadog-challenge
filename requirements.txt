@@ -1,0 +1,6 @@
+# Build
+Flask==1.1.1
+redis>=3.3
+
+# Test
+pytest==6.2.4
