@@ -23,12 +23,12 @@ current_pet_id = 2
 pets = [
     {
         'id': 1,
-        'name': 'fido',
+        'name': 'kimi',
         'kind': 'dog'
     },
     {
         'id': 2,
-        'name': 'kitty',
+        'name': 'umo',
         'kind': 'cat'
     }
 ]
